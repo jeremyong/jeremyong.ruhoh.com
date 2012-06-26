@@ -2,7 +2,8 @@
 title: LearninGit
 date: '2012-06-26'
 description: An overview of my git workflow.
-categories: Git, Workflow
+categories: 
+tags: [git, workflow]
 ---
 
 
