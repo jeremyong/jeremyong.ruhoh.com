@@ -1,11 +1,9 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Jeremy Ong
+tagline: You know how it is how we know what we do
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Jeremy Ong
+  email : jeremy@playmesh.com
+  github : jeremyong
 
 navigation :
   - archive.html
