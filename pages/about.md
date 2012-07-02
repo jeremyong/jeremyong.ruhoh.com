@@ -3,7 +3,7 @@ title : About Me
 description:
 ---
 
-Jeremy is a senior engineer at Playmesh. He is enthusiastic about many things including but not limited to:
+Jeremy works at Playmesh. He is enthusiastic about many things including but not limited to:
 
 + Distributed computing
 + Algorithms
